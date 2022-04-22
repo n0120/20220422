@@ -7,12 +7,14 @@
 ---
 
 >### 図書館司書としての実績
->- 大阪教育大学附属図書館天王寺分館<3年> ・ 追手門大学図書館<2年> 
-
-<img width="200" alt="青と緑の本" src="https://raw.githubusercontent.com/n0120/20220422/main/_book_bg_.png">
+//>- 大阪教育大学附属図書館天王寺分館<3年> ・ 追手門大学図書館<2年> 
+<img width="400" alt="青と緑の本" src="https://raw.githubusercontent.com/n0120/20220422/main/_book_bg_.png">
 
 >### AIコンサルタントとして
 >- 大阪ハイテクノロジー専門学校にて人工知能の専門知識の学習
+
+>### 得意言語
+>- python
 
 >### 学習の過程で作成したゲームの一つ
 >- [_hit_and_blow_](https://colab.research.google.com/drive/1d3IIqtw-FMP9F3DTX2doLGmD3RrOSqfV?usp=sharing)
