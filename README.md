@@ -10,8 +10,8 @@
 >### AIコンサルタントとして
 >- 大阪ハイテクノロジー専門学校にて人工知能の専門知識の学習
 .
->###
->- https://colab.research.google.com/drive/1d3IIqtw-FMP9F3DTX2doLGmD3RrOSqfV?usp=sharing
+>### 学習の過程で作成したゲームの一つ
+>- [_hit_and_blow_](https://colab.research.google.com/drive/1d3IIqtw-FMP9F3DTX2doLGmD3RrOSqfV?usp=sharing)
 .
 <!--
 ## Welcome to GitHub Pages
