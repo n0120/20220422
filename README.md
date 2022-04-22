@@ -1,18 +1,17 @@
 # *0120* だよ
-.
+
 ### 元図書館司書で現AIコンサルタント志望の  
 ### なんちゃってゲーマーだよ
-.  
-.  
+
+
 >### 図書館司書としての実績は
 >- 大阪教育大学附属図書館天王寺分館<3年> ・ 追手門大学図書館<2年> 
-.  
+
 >### AIコンサルタントとして
 >- 大阪ハイテクノロジー専門学校にて人工知能の専門知識の学習
-.  
+
 >### 学習の過程で作成したゲームの一つ
 >- [_hit_and_blow_](https://colab.research.google.com/drive/1d3IIqtw-FMP9F3DTX2doLGmD3RrOSqfV?usp=sharing)
-.  
   
 <!--
 ## Welcome to GitHub Pages
