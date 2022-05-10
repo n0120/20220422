@@ -13,7 +13,7 @@
 >- 大阪ハイテクノロジー専門学校にて人工知能の専門知識の学習
 
 >### 得意言語
->- python
+>- Python
 
 >### 学習の過程で作成したゲームの一つ
 >- [_hit_and_blow_](https://colab.research.google.com/drive/1d3IIqtw-FMP9F3DTX2doLGmD3RrOSqfV?usp=sharing)
