@@ -4,3 +4,4 @@ description: GitHub Pages にて作成
 logo: /logo.png
 plugins:
   - jekyll-sitemap
+google_analytics: UA-228685838-1 
